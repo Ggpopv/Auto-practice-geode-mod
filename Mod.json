@@ -1,0 +1,14 @@
+{
+    "geode": "4.3.0",
+    "gd": { "win": "2.2074", "android": "2.2074", "mac": "2.2074", "ios": "2.2074" },
+    "version": "v1.0.0",
+    "id": "yourname.auto-pause-at-percent",
+    "name": "Auto Pause At Percent",
+    "developer": "YourName",
+    "description": "Automatically pauses once when you reach specific level percentages (e.g. 50%).",
+    "tags": ["gameplay", "utility"],
+    "settings": {
+        "enabled": { "type": "bool", "name": "Enable Auto-Pause", "default": true },
+        "percents": { "type": "string", "name": "Pause at percentages", "description": "Comma-separated, e.g. 25,50,75", "default": "50" }
+    }
+}
