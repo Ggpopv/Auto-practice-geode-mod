@@ -1,5 +1,5 @@
 {
-    "geode": "4.3.0",
+    "geode": "5.0.0",
     "gd": { "win": "2.2074", "android": "2.2074", "mac": "2.2074", "ios": "2.2074" },
     "version": "v1.0.0",
     "id": "yourname.auto-pause-at-percent",
