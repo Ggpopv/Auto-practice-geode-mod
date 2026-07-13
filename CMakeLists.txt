@@ -1,3 +1,4 @@
+# force fresh build
 cmake_minimum_required(VERSION 3.21)
 if(NOT DEFINED ENV{GEODE_SDK})
     message(FATAL_ERROR "Define GEODE_SDK")
